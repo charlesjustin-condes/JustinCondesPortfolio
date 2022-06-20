@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/JustinCondesPortfolio/static/css/main.8aec3f2b.css",
-    "main.js": "/JustinCondesPortfolio/static/js/main.ee5318a0.js",
+    "main.css": "/JustinCondesPortfolio/static/css/main.de6c98ef.css",
+    "main.js": "/JustinCondesPortfolio/static/js/main.c12bff0d.js",
     "static/media/me-about.jpg": "/JustinCondesPortfolio/static/media/me-about.663b6b0d67c96ab54b96.jpg",
     "static/media/cv.pdf": "/JustinCondesPortfolio/static/media/cv.4abb07b073a8d17b9cd7.pdf",
     "static/media/me.png": "/JustinCondesPortfolio/static/media/me.ca6af511b6930aaa4eab.png",
+    "static/media/SKL1.png": "/JustinCondesPortfolio/static/media/SKL1.dd273753240c22667862.png",
     "static/media/portfolio6.jpg": "/JustinCondesPortfolio/static/media/portfolio6.cea661cde512c82d6efb.jpg",
     "static/media/portfolio5.jpg": "/JustinCondesPortfolio/static/media/portfolio5.e37d5c4f2b797aa1091c.jpg",
+    "static/media/SKL2.png": "/JustinCondesPortfolio/static/media/SKL2.19c8605d6b2861f5fbe0.png",
     "static/media/portfolio2.jpg": "/JustinCondesPortfolio/static/media/portfolio2.7d48c9db4945951ce30f.jpg",
     "static/media/portfolio1.jpg": "/JustinCondesPortfolio/static/media/portfolio1.498201d05c3916452f7d.jpg",
     "static/media/portfolio3.jpg": "/JustinCondesPortfolio/static/media/portfolio3.80f9fe2c2cf6e4a892f1.jpg",
+    "static/media/SKL4.png": "/JustinCondesPortfolio/static/media/SKL4.9550a5819bfe64043ae9.png",
+    "static/media/SKL7.png": "/JustinCondesPortfolio/static/media/SKL7.83b4b1ce768f437cd28a.png",
+    "static/media/SKL11.png": "/JustinCondesPortfolio/static/media/SKL11.664c8c6990acc8abfb93.png",
     "static/media/portfolio4.jpg": "/JustinCondesPortfolio/static/media/portfolio4.809b0411aaeb9b80f437.jpg",
+    "static/media/SKL5.png": "/JustinCondesPortfolio/static/media/SKL5.842ef02b41f2b4a40201.png",
+    "static/media/SKL10.png": "/JustinCondesPortfolio/static/media/SKL10.0a1220746f5956aac526.png",
+    "static/media/SKL8.png": "/JustinCondesPortfolio/static/media/SKL8.309e0b555a025a23483c.png",
     "index.html": "/JustinCondesPortfolio/index.html",
-    "main.8aec3f2b.css.map": "/JustinCondesPortfolio/static/css/main.8aec3f2b.css.map",
-    "main.ee5318a0.js.map": "/JustinCondesPortfolio/static/js/main.ee5318a0.js.map"
+    "main.de6c98ef.css.map": "/JustinCondesPortfolio/static/css/main.de6c98ef.css.map",
+    "main.c12bff0d.js.map": "/JustinCondesPortfolio/static/js/main.c12bff0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.8aec3f2b.css",
-    "static/js/main.ee5318a0.js"
+    "static/css/main.de6c98ef.css",
+    "static/js/main.c12bff0d.js"
   ]
 }
